@@ -7,5 +7,6 @@ For minimum aws ec2 permission needed, refer:
 https://eksctl.io/usage/minimum-iam-policies/
 
 
--To delete cluster
+-To delete cluster run:
+
 eksctl delete cluster valaxy --region ap-south-1
